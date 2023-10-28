@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Anne-Marie Bazzani"
-subtitle: Chief Finance Officer"
 header:
   overlay_color: "#333"
 ---
