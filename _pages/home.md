@@ -1,3 +1,8 @@
+---
+permalink: /
+classes: wide
+---
+
 test
 
 # Anne-Marie Bazzani
