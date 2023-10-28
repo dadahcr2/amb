@@ -23,6 +23,7 @@ header:
 
 ### Education
 
+{% capture notice-2 %}
 #### **Columbia University in the City of New York**
 ##### Master of Business Administration - *1999 - 2001*
 
@@ -31,7 +32,11 @@ header:
 
 #### **ESSEC Business School**
 ##### Diplome Finance, General - *1993 - 1997*
+{% endcapture %}
 
+<div class="notice">{{ notice-2 | markdownify }}</div>
+
+{% capture notice-3 %}
 ### Volunteer Experience
 
 #### **Partner** - Women In Need, Inc. (Win)
@@ -39,3 +44,6 @@ header:
 
 #### **Board Member** - Treasurer - FRIEDA Community
 ##### *Social Services*
+{% endcapture %}
+
+<div class="notice">{{ notice-3 | markdownify }}</div>
