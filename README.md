@@ -1,27 +1,38 @@
-# Minimal Mistakes remote theme starter
+# Anne-Marie Bazzani
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
-Contains basic configuration to get you a site with:
+-> ![](https://media.licdn.com/dms/image/C4E03AQG9AC4UIelahg/profile-displayphoto-shrink_800_800/0/1606101380562?e=2147483647&v=beta&t=fHi9hHBF54qlpWfANPmD2utvoUHhAubuPkIr6AM_pqM) <-
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## -> **Strategic P&L leader with proven ability to grow businesses and boost innovation across the digital, media, luxury, and finance industries** <-
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+## About
+####  ==*I have shaped cultures of high performance, accountability, and open communication in all the teams I have led, to drive growth and profitability. I boost efficiency by leveraging technology and automation while also fostering ideation and experimentation. I deliver on the full range of corporate finance functions including effective board and investor communication.*==
 
----
+#### ==*I am a leader of people who influences by communicating a clear vision and aligning incentives.*==
 
-## Troubleshooting
+###  **Key Competencies**
+#### - *Data analytics, financial management, capital structure, acquisition and divestiture valuation, team building and development, performance-based management, strategic planning, fostering innovation and creativity, digital transformation.*
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+### **Technical Skills**
+#### - *SaaS revenue model, financial modeling, forecasting and scenario planning, audit, GAAP accounting, 401(k), contract review, vendor negotiation, financial systems integration, basic coding (R, Python), SQL.*
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+### Education
+
+!!! info
+	#### **Columbia University in the City of New York**
+	##### Master of Business Administration - *1999 - 2001*
+!!! info
+	#### **Harvard University**
+	##### Business Analytics Certificate -  digital strategy, data analysis - *2020 - 2021*
+!!! info
+	#### **ESSEC Business School**
+	##### Diplome Finance, General - *1993 - 1997*
+
+### Volunteer Experience
+
+!!! note 
+	#### **Partner** - Women In Need, Inc. (Win)
+	##### *Helping homeless women and their children rebuild their lives.  Founded in 1983, Win began as a shelter for four homeless women and their combined six children. Since then, Win has evolved to become a leading, non-profit agency and the largest provider of shelter for homeless families in New York City. Win serves close to 12,000 homeless women and their children each year.* 
+!!! note 
+	#### **Board Member** - Treasurer - FRIEDA Community
+    ##### *Social Services*
