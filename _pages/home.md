@@ -1,8 +1,7 @@
 ---
 permalink: /
 title: "Anne-Marie Bazzani"
-header:
-  header: https://media.licdn.com/dms/image/C4E03AQG9AC4UIelahg/profile-displayphoto-shrink_800_800/0/1606101380562?e=2147483647&v=beta&t=fHi9hHBF54qlpWfANPmD2utvoUHhAubuPkIr6AM_pqM
+header: https://media.licdn.com/dms/image/C4E03AQG9AC4UIelahg/profile-displayphoto-shrink_800_800/0/1606101380562?e=2147483647&v=beta&t=fHi9hHBF54qlpWfANPmD2utvoUHhAubuPkIr6AM_pqM
 ---
 
 
@@ -11,9 +10,9 @@ header:
 ## **Strategic P&L leader with proven ability to grow businesses and boost innovation across the digital, media, luxury, and finance industries**
 
 ## About
-####  *I have shaped cultures of high performance, accountability, and open communication in all the teams I have led, to drive growth and profitability. I boost efficiency by leveraging technology and automation while also fostering ideation and experimentation. I deliver on the full range of corporate finance functions including effective board and investor communication.*
+####  "*I have shaped cultures of high performance, accountability, and open communication in all the teams I have led, to drive growth and profitability. I boost efficiency by leveraging technology and automation while also fostering ideation and experimentation. I deliver on the full range of corporate finance functions including effective board and investor communication.*"
 
-#### =I am a leader of people who influences by communicating a clear vision and aligning incentives.*
+#### "I am a leader of people who influences by communicating a clear vision and aligning incentives.*"
 
 ###  **Key Competencies**
 #### - *Data analytics, financial management, capital structure, acquisition and divestiture valuation, team building and development, performance-based management, strategic planning, fostering innovation and creativity, digital transformation.*
