@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Anne-Marie Bazzani"
+subtitle: Chief Finance Officer"
 header:
   overlay_color: "#333"
 ---
@@ -26,10 +27,11 @@ header:
 
 ## Education
 
-#### **Columbia University** - MBA (*1999 - 2001*) {: .notice}
+#### **Columbia University** - MBA (*1999 - 2001*) 
+{: .notice--info}
 
 #### **Harvard University** - Business Analytics Certificate, digital strategy, data analysis - (*2020 - 2021*)  
-{: .notice}
+{: .notice--warning}
 
 #### **ESSEC Business School** - Diplome Finance, General (*1993 - 1997*)  
 {: .notice--primary}
