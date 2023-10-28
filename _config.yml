@@ -66,13 +66,25 @@ author:
       url: "https://www.ambazzani.com/"
     - label: "LinkedIn"
       icon: "fa-linkedin"
-      url: "https://linkedin.com/ln/ambazzani/"
+      url: "https://linkedin.com/in/ambazzani"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/ambazzani"
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fa-linkedin"
       url: "https://linkedin.com/ln/ambazzani/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/ambazzani"
 
 defaults:
   # _posts
