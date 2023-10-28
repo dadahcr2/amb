@@ -31,7 +31,7 @@ header:
 ### **Columbia University in the City of New York**  
 ##### Master of Business Administration - *1999 - 2001*  
 
-![](https://www.linkedin.com/school/harvard-university/?trk=public_profile_school_profile-section-card_image-click)
+![](/assets/images/0A40C0B7-5D2E-484B-8F07-769AFB05C3EF.jpeg)
 ### **Harvard University**
 ##### Business Analytics Certificate -  digital strategy, data analysis - *2020 - 2021*
 
