@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anne-Marie Bazzani"{: style="text-align: center;"}
+title: "Anne-Marie Bazzani"
 header:
   overlay_color: "#333"
 ---
