@@ -17,6 +17,9 @@ header:
 #### "I am a leader of people who influences by communicating a clear vision and aligning incentives.*"
 {: style="text-align: center;"}
 
+![]()  
+
+
 **Key Competencies** | **Technical Skills**  
 -- | --  
 *Data analytics, financial management, capital structure, acquisition and divestiture valuation, team building and development, performance-based management, strategic planning, fostering innovation and creativity, digital transformation.* |  *SaaS revenue model, financial modeling, forecasting and scenario planning, audit, GAAP accounting, 401(k), contract review, vendor negotiation, financial systems integration, basic coding (R, Python), SQL.*
