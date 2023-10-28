@@ -26,31 +26,19 @@ header:
 
 ### Education
 
-{% capture notice-2 %}
-![](https://www.linkedin.com/school/columbia-university/?trk=public_profile_school_profile-section-card_image-click)
-### **Columbia University in the City of New York**  
-##### Master of Business Administration - *1999 - 2001*  
+#### **Columbia University** - MBA (*1999 - 2001*) 
 
-![](/assets/images/0A40C0B7-5D2E-484B-8F07-769AFB05C3EF.jpeg)
-### **Harvard University**
-##### Business Analytics Certificate -  digital strategy, data analysis - *2020 - 2021*
+#### **Harvard University** - Business Analytics Certificate, digital strategy, data analysis - (*2020 - 2021*)  
 
-![](https://fr.linkedin.com/school/essec-business-school/?trk=public_profile_school_profile-section-card_image-click} #### **ESSEC Business School**
-##### Diplome Finance, General - *1993 - 1997*
-{% endcapture %}
-
-<div class="notice">{{ notice-2 | markdownify }}</div>
+#### **ESSEC Business School** - Diplome Finance, General (*1993 - 1997*)  
 
 
 ### Volunteer Experience
 
-{% capture notice-3 %}
-#### **Partner** - Women In Need, Inc. (Win)
-##### *Helping homeless women and their children rebuild their lives.  Founded in 1983, Win began as a shelter for four homeless women and their combined six children. Since then, Win has evolved to become a leading, non-profit agency and the largest provider of shelter for homeless families in New York City. Win serves close to 12,000 homeless women and their children each year.*  
+
+#### **Partner** - Women In Need, Inc. (Win)  
+> Helping homeless women and their children rebuild their lives.  Founded in 1983, Win began as a shelter for four homeless women and their combined six children. Since then, Win has evolved to become a leading, non-profit agency and the largest provider of shelter for homeless families in New York City. Win serves close to 12,000 homeless women and their children each year.*  
 
 
 #### **Board Member** - Treasurer - FRIEDA Community
-##### *Social Services*
-{% endcapture %}
-
-<div class="notice">{{ notice-3 | markdownify }}</div>
+> *Social Services*
