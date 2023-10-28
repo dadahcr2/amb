@@ -27,13 +27,15 @@ header:
 ### Education
 
 {% capture notice-2 %}
-#### **Columbia University in the City of New York**  
+![](https://www.linkedin.com/school/columbia-university/?trk=public_profile_school_profile-section-card_image-click)
+### **Columbia University in the City of New York**  
 ##### Master of Business Administration - *1999 - 2001*  
 
-#### **Harvard University**
+![](https://www.linkedin.com/school/harvard-university/?trk=public_profile_school_profile-section-card_image-click)
+### **Harvard University**
 ##### Business Analytics Certificate -  digital strategy, data analysis - *2020 - 2021*
 
-#### **ESSEC Business School**
+![](https://fr.linkedin.com/school/essec-business-school/?trk=public_profile_school_profile-section-card_image-click} #### **ESSEC Business School**
 ##### Diplome Finance, General - *1993 - 1997*
 {% endcapture %}
 
