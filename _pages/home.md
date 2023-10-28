@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anne-Marie Bazzani"
+title: "Anne-Marie Bazzani"{: style="text-align: center;"}
 header:
   overlay_color: "#333"
 ---
@@ -26,11 +26,13 @@ header:
 
 ## Education
 
-#### **Columbia University** - MBA (*1999 - 2001*) 
+#### **Columbia University** - MBA (*1999 - 2001*) {: .notice}
 
 #### **Harvard University** - Business Analytics Certificate, digital strategy, data analysis - (*2020 - 2021*)  
+{: .notice}
 
 #### **ESSEC Business School** - Diplome Finance, General (*1993 - 1997*)  
+{: .notice}
 
 
 ## Volunteer Experience
