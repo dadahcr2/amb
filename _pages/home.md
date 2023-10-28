@@ -35,6 +35,10 @@ header:
 #### **ESSEC Business School** - Diplome Finance, General (*1993 - 1997*)  
 {: .notice--primary}
 
+  
+### Career
+
+![](/assets/images/5053AEB9-738E-4CF7-8F56-072439E3AC34.jpeg)
 
 ## Volunteer Experience
 
