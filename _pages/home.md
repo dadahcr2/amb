@@ -24,7 +24,7 @@ header:
 -- | --  
 *Data analytics, financial management, capital structure, acquisition and divestiture valuation, team building and development, performance-based management, strategic planning, fostering innovation and creativity, digital transformation.* |  *SaaS revenue model, financial modeling, forecasting and scenario planning, audit, GAAP accounting, 401(k), contract review, vendor negotiation, financial systems integration, basic coding (R, Python), SQL.*
 
-### Education
+## Education
 
 #### **Columbia University** - MBA (*1999 - 2001*) 
 
@@ -33,7 +33,7 @@ header:
 #### **ESSEC Business School** - Diplome Finance, General (*1993 - 1997*)  
 
 
-### Volunteer Experience
+## Volunteer Experience
 
 
 #### **Partner** - Women In Need, Inc. (Win)  
