@@ -30,7 +30,7 @@ header:
 **Columbia University** - Master of Business Administration (*1999 - 2001*) 
 {: .notice--info}
 
-**Harvard University** - Business Analytics Certificate, digital strategy, data analysis - (*2020 - 2021*)  
+**Harvard University** - Business Analytics Certificate, digital strategy, data analysis (*2020 - 2021*)  
 {: .notice--warning}
 
 **ESSEC Business School** - Diplome Finance, General (*1993 - 1997*)  
