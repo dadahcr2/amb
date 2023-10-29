@@ -40,6 +40,7 @@ header:
 ## Work Experience
 
 ![](/assets/images/081D139E-404B-4C55-B765-FD1D860ECB2F.png)
+{: style="text-align: center;"}
 
 ## Volunteer Experience
 
