@@ -15,7 +15,7 @@ header:
 {: style="text-align: center; color: brown;"}
 
 #### "*I am a leader of people who influences by communicating a clear vision and aligning incentives.*"
-{: style="text-align: center; color: green;"}
+{: style="text-align: center; color: brown;"}
 
 ![]()  
 
