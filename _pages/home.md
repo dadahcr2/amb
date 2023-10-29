@@ -2,7 +2,7 @@
 permalink: /
 title: "Anne-Marie Bazzani"
 header:
-  overlay_color: "#333"
+  overlay_image: https://www.freewebheaders.com/wp-content/gallery/office-finance/elegant-office-meeting-room-website-header.jpg
 ---
 
 
