@@ -12,10 +12,10 @@ header:
 
 ## About
 ####  "*I have shaped cultures of high performance, accountability, and open communication in all the teams I have led, to drive growth and profitability. I boost efficiency by leveraging technology and automation while also fostering ideation and experimentation. I deliver on the full range of corporate finance functions including effective board and investor communication.*"
-{: style="text-align: center;"}
+{: style="text-align: center; color: red;"}
 
 #### "*I am a leader of people who influences by communicating a clear vision and aligning incentives.*"
-{: style="text-align: center;"}
+{: style="text-align: center; color: brown;"}
 
 ![]()  
 
@@ -49,3 +49,4 @@ header:
 
 #### **Board Member** - Treasurer - FRIEDA Community  
 > *Social Services*
+{: .notice--warning #### **Board Member** - Treasurer - FRIEDA Community}
