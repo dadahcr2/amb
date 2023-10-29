@@ -23,11 +23,13 @@ header:
 **Key Competencies** | **Technical Skills**  
 -- | --  
 *Data analytics, financial management, capital structure, acquisition and divestiture valuation, team building and development, performance-based management, strategic planning, fostering innovation and creativity, digital transformation.* |  *SaaS revenue model, financial modeling, forecasting and scenario planning, audit, GAAP accounting, 401(k), contract review, vendor negotiation, financial systems integration, basic coding (R, Python), SQL.*
+{: style="font-size: x-large;"}
 
 ## Education
 
-**Columbia University** - Master of Business Administration (*1999 - 2001*){: style="font-size: x-large;"} 
+**Columbia University** - Master of Business Administration (*1999 - 2001*) 
 {: .notice--info}
+{: style="font-size: x-large;"}
 
 **Harvard University** - Business Analytics Certificate, digital strategy, data analysis - (*2020 - 2021*)  
 {: .notice--warning}
