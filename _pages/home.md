@@ -44,9 +44,9 @@ header:
 
 ## Volunteer Experience
 
-> **Partner** - Women In Need, Inc. (Win) : *Helping homeless women and their children rebuild their lives.  Founded in 1983, Win began as a shelter for four homeless women and their combined six children. Since then, Win has evolved to become a leading, non-profit agency and the largest provider of shelter for homeless families in New York City. Win serves close to 12,000 homeless women and their children each year.*
+> **Partner - Women In Need, Inc. (Win)** : *Helping homeless women and their children rebuild their lives.  Founded in 1983, Win began as a shelter for four homeless women and their combined six children. Since then, Win has evolved to become a leading, non-profit agency and the largest provider of shelter for homeless families in New York City. Win serves close to 12,000 homeless women and their children each year.*
 {: .notice--warning}
 
 
-> **Board Member** - Treasurer - FRIEDA Community : *Social Services*
+> **Board Member - Treasurer - FRIEDA Community** : *Social Services*
 {: .notice--warning}
