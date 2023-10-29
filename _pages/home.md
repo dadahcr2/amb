@@ -26,7 +26,7 @@ header:
 
 ## Education
 
-**Columbia University** - MBA (*1999 - 2001*) 
+**Columbia University** - Master of Business Administration (*1999 - 2001*) 
 {: .notice--info}
 
 **Harvard University** - Business Analytics Certificate, digital strategy, data analysis - (*2020 - 2021*)  
