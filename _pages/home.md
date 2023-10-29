@@ -14,7 +14,7 @@ header:
 ####  "*I have shaped cultures of high performance, accountability, and open communication in all the teams I have led, to drive growth and profitability. I boost efficiency by leveraging technology and automation while also fostering ideation and experimentation. I deliver on the full range of corporate finance functions including effective board and investor communication.*"
 {: style="text-align: center;"}
 
-#### "I am a leader of people who influences by communicating a clear vision and aligning incentives.*"
+#### "*I am a leader of people who influences by communicating a clear vision and aligning incentives.*"
 {: style="text-align: center;"}
 
 ![]()  
@@ -26,13 +26,13 @@ header:
 
 ## Education
 
-### **Columbia University** - MBA (*1999 - 2001*) 
+## **Columbia University** - MBA (*1999 - 2001*) 
 {: .notice--info}
 
-### **Harvard University** - Business Analytics Certificate, digital strategy, data analysis - (*2020 - 2021*)  
+## **Harvard University** - Business Analytics Certificate, digital strategy, data analysis - (*2020 - 2021*)  
 {: .notice--warning}
 
-### **ESSEC Business School** - Diplome Finance, General (*1993 - 1997*)  
+## **ESSEC Business School** - Diplome Finance, General (*1993 - 1997*)  
 {: .notice--primary}
 
   
