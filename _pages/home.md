@@ -13,7 +13,7 @@ header:
 ## About
 ####  "*I deliver on the full range of corporate finance functions including effective board and investor communication.*"
 {: style="text-align: center; color: brown;"}
-![]()  
+&nbsp;  
 
 | **Key Competencies** |  |  
 -- | --  
@@ -26,7 +26,7 @@ Digital transformation |
 
 ####  "*I boost efficiency by leveraging technology and automation while also fostering ideation and experimentation.*"
 {: style="text-align: center; color: brown;"}
-![]()  
+&nbsp;  
 
 | **Technical Skills**  |  |  
 -- | --  
@@ -37,6 +37,15 @@ Contract review | Financial systems integration
 Vendor negotiation | Basic coding (R, Python)  
 SQL | 
 {: style="font-size: large;"}
+
+####  "*I have shaped cultures of high performance, accountability, and open communication in all the teams I have led, to drive growth and profitability.*"
+{: style="text-align: center; color: brown;"}
+  
+## Work Experience
+
+![](/assets/images/081D139E-404B-4C55-B765-FD1D860ECB2F.png)
+{: style="text-align: center;"}
+
 
 ## Education
 
@@ -62,15 +71,7 @@ SQL |
 {% endcapture %}
 <div class="notice--success">{{ notice-3 | markdownify }}</div>
 
-####  "*I have shaped cultures of high performance, accountability, and open communication in all the teams I have led, to drive growth and profitability.*"
-{: style="text-align: center; color: brown;"}
-  
-## Work Experience
-
-![](/assets/images/081D139E-404B-4C55-B765-FD1D860ECB2F.png)
-{: style="text-align: center;"}
-
-## Volunteer Experience
+## Volunteer Experience  
 
 {% capture notice-4 %}
 ### **Partner - Women In Need, Inc. (Win)**  
