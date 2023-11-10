@@ -14,20 +14,17 @@ header:
 ####  "*I have shaped cultures of high performance, accountability, and open communication in all the teams I have led, to drive growth and profitability. I boost efficiency by leveraging technology and automation while also fostering ideation and experimentation. I deliver on the full range of corporate finance functions including effective board and investor communication.*"
 {: style="text-align: center; color: brown;"}
 
-#### "*I am a leader of people who influences by communicating a clear vision and aligning incentives.*"
-{: style="text-align: center; color: brown;"}
-
 ![]()  
 
 
 | **Key Competencies** |  |  
 -- | --  
-*Data analytics, financial management, capital structure, acquisition and divestiture valuation, team building and development* | *performance-based management, strategic planning, fostering innovation and creativity, digital  
+*Data analytics, financial management, capital structure, acquisition and divestiture valuation, team building and development,* | *performance-based management, strategic planning, fostering innovation and creativity, digital transformation*  
 {: style="font-size: large;"}
 
 | **Technical Skills**  |  |  
 -- | --  
-*SaaS revenue model, financial modeling, forecasting and scenario planning, audit, GAAP accounting, 401(k)* | *contract review, vendor negotiation, financial systems integration, basic coding (R, Python), SQL.*  
+*SaaS revenue model, financial modeling, forecasting and scenario planning, audit, GAAP accounting, 401(k),* | *contract review, vendor negotiation, financial systems integration, basic coding (R, Python), SQL*  
 {: style="font-size: large;"}
 
 
@@ -76,3 +73,7 @@ header:
 ---  
 {% endcapture %}
 <div class="notice--warning">{{ notice-5 | markdownify }}</div>
+
+
+#### "*I am a leader of people who influences by communicating a clear vision and aligning incentives.*"
+{: style="text-align: center; color: brown;"}
