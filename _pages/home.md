@@ -51,7 +51,7 @@ SQL |
 {% capture notice-1 %}
 
 ### **Columbia University**  
-#### Master of Business Administration (*1999 - 2001*) 
+Master of Business Administration (*1999 - 2001*) {: style="font-size: large"}
 ---  
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
