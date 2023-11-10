@@ -37,7 +37,6 @@ Contract review | Financial systems integration
 Vendor negotiation | Basic coding (R, Python)  
 SQL | 
 {: style="font-size: large;"}
-![]()   
 
 ## Education
 
