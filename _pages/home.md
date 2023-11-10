@@ -19,7 +19,7 @@ header:
 
 | **Key Competencies** |  |  
 -- | --  
-*Data analytics, financial management, capital structure, acquisition and divestiture valuation, team building and development,* | *performance-based management, strategic planning, fostering innovation and creativity, digital transformation*  
+*Data analytics<br>Financial management<br>Capital structure<br>Acquisition and divestiture valuation<br>Team building and development* | *Performance-based managemen<br>Strategic planning<br>Fostering innovation and creativity<br>Digital transformation*  
 {: style="font-size: large;"}  
 
 &nbsp;  
