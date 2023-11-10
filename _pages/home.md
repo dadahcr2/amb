@@ -22,7 +22,7 @@ header:
 *Data analytics, financial management, capital structure, acquisition and divestiture valuation, team building and development,* | *performance-based management, strategic planning, fostering innovation and creativity, digital transformation*  
 {: style="font-size: large;"}  
 
-&nspb;  
+&nbsp;  
 
 | **Technical Skills**  |  |  
 -- | --  
