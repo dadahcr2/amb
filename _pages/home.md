@@ -19,22 +19,22 @@ header:
 
 | **Key Competencies** |  |  
 -- | --  
-*Data analytics | Acquisition and divestiture valuation  
-Financial managemen | Team building and development
+Data analytics | Acquisition and divestiture valuation  
+Financial management | Team building and development
 Capital structure | Performance-based management
 Strategic planning | Fostering innovation and creativity  
-Digital transformation* |   
+Digital transformation |   
 {: style="font-size: large;"}  
 
 &nbsp;  
 
 | **Technical Skills**  |  |  
 -- | --  
-*SaaS revenue model |  Forecasting and scenario planning 
+SaaS revenue model |  Forecasting and scenario planning 
 Financial modeling | Audit  
 GAAP accounting | 401(k)  
 Contract review | Financial systems integration
-Vendor negotiation | Basic coding (R, Python)<br>SQL*  
+Vendor negotiation | Basic coding (R, Python)<br>SQL  
 {: style="font-size: large;"}
 
 
