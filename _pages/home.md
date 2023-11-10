@@ -37,7 +37,7 @@ header:
 #### Diplome Finance, General (*1993 - 1997*)  
 {% endcapture %}
 
-<div class="notice-info">{{ notice-1 | markdownify }}</div>
+<div class="notice">{{ notice-1 | markdownify }}</div>
 
   
 ## Work Experience
@@ -56,4 +56,4 @@ header:
 #### *Social Services*
 {% endcapture %}
 
-<div class="notice-warning">{{ notice-2 | markdownify }}</div>
+<div class="notice">{{ notice-2 | markdownify }}</div>
