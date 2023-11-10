@@ -54,7 +54,7 @@ header:
 
 
 ###  **Board Member - Treasurer - FRIEDA Community**  
-*Social Services*  
+#### *Social Services*  
   
 {% endcapture %}
 <div class="notice--warning">{{ notice-2 | markdownify }}</div>
