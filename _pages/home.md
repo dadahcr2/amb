@@ -80,10 +80,10 @@ Master of Business Administration (*1999 - 2001*) {: style="font-size: large;"}
 
 {% capture notice-5 %}
 ### **Board Member - Treasurer - FRIEDA Community**  
-#### *Social Services*     
+*Social Services*     
 ---  
 {% endcapture %}
-<div class="notice--warning">{{ notice-5 | markdownify }}</div>
+<div class="notice--warning">{{ notice-5 | markdownify }}</div>{: style="font-size: large;"}
 
 
 #### "*I am a leader of people who influences by communicating a clear vision and aligning incentives.*"
