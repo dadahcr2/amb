@@ -40,14 +40,14 @@ header:
 #### Business Analytics Certificate, digital strategy, data analysis (*2020 - 2021*) 
 ---  
 {% endcapture %}
-<div class="notice--info">{{ notice-2 | markdownify }}</div>
+<div class="notice--primary">{{ notice-2 | markdownify }}</div>
 
 {% capture notice-3 %}
 ### **ESSEC Business School**  
 #### Diplome Finance, General (*1993 - 1997*)  
 ---   
 {% endcapture %}
-<div class="notice--info">{{ notice-3 | markdownify }}</div>
+<div class="notice--success">{{ notice-3 | markdownify }}</div>
 
   
 ## Work Experience
