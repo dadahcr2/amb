@@ -11,11 +11,9 @@ header:
 
 
 ## About
-####  "*I have shaped cultures of high performance, accountability, and open communication in all the teams I have led, to drive growth and profitability.*"
+####  "*I deliver on the full range of corporate finance functions including effective board and investor communication.*"
 {: style="text-align: center; color: brown;"}
-
 ![]()  
-
 
 | **Key Competencies** |  |  
 -- | --  
@@ -26,8 +24,7 @@ Strategic planning | Fostering innovation and creativity
 Digital transformation |   
 {: style="font-size: large;"}  
 
-&nbsp;  
-####  "*I deliver on the full range of corporate finance functions including effective board and investor communication.*"
+####  "*I boost efficiency by leveraging technology and automation while also fostering ideation and experimentation.*"
 {: style="text-align: center; color: brown;"}
 
 | **Technical Skills**  |  |  
@@ -41,8 +38,6 @@ SQL |
 {: style="font-size: large;"}
 
 &nbsp;  
-####  "*I boost efficiency by leveraging technology and automation while also fostering ideation and experimentation.*"
-{: style="text-align: center; color: brown;"}
 
 ## Education
 
@@ -68,6 +63,8 @@ SQL |
 {% endcapture %}
 <div class="notice--success">{{ notice-3 | markdownify }}</div>
 
+####  "*I have shaped cultures of high performance, accountability, and open communication in all the teams I have led, to drive growth and profitability.*"
+{: style="text-align: center; color: brown;"}
   
 ## Work Experience
 
