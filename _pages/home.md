@@ -30,7 +30,11 @@ Digital transformation* |
 
 | **Technical Skills**  |  |  
 -- | --  
-*SaaS revenue model<br>Financial modeling<br>Forecasting and scenario planning<br>Audit<br>GAAP accounting<br>401(k)* | *Contract review<br>Vendor negotiation<br>Financial systems integration<br>Basic coding (R, Python)<br>SQL*  
+*SaaS revenue model |  Forecasting and scenario planning 
+Financial modeling | Audit  
+GAAP accounting | 401(k)  
+Contract review | Financial systems integration
+Vendor negotiation | Basic coding (R, Python)<br>SQL*  
 {: style="font-size: large;"}
 
 
