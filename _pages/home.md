@@ -11,7 +11,13 @@ header:
 
 
 ## About
-####  "*I have shaped cultures of high performance, accountability, and open communication in all the teams I have led, to drive growth and profitability. I boost efficiency by leveraging technology and automation while also fostering ideation and experimentation. I deliver on the full range of corporate finance functions including effective board and investor communication.*"
+####  "*I have shaped cultures of high performance, accountability, and open communication in all the teams I have led, to drive growth and profitability.*"
+{: style="text-align: center; color: brown;"}
+
+####  "*I boost efficiency by leveraging technology and automation while also fostering ideation and experimentation.*"
+{: style="text-align: center; color: brown;"}
+
+####  "*I deliver on the full range of corporate finance functions including effective board and investor communication.*"
 {: style="text-align: center; color: brown;"}
 
 ![]()  
