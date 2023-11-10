@@ -27,6 +27,13 @@ header:
 
 ## Education
 
+{% capture notice-2 %}
+### **Harvard University**
+#### Business Analytics Certificate, digital strategy, data analysis (*2020 - 2021*) 
+---  
+{% endcapture %}
+<div class="notice--primary">{{ notice-2 | markdownify }}</div>
+
 {% capture notice-1 %}
 
 ### **Columbia University**  
@@ -34,13 +41,6 @@ header:
 ---  
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
-
-{% capture notice-2 %}
-### **Harvard University**
-#### Business Analytics Certificate, digital strategy, data analysis (*2020 - 2021*) 
----  
-{% endcapture %}
-<div class="notice--primary">{{ notice-2 | markdownify }}</div>
 
 {% capture notice-3 %}
 ### **ESSEC Business School**  
