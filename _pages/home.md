@@ -26,7 +26,7 @@ header:
 
 | **Technical Skills**  |  |  
 -- | --  
-*SaaS revenue model, financial modeling, forecasting and scenario planning, audit, GAAP accounting, 401(k),* | *contract review, vendor negotiation, financial systems integration, basic coding (R, Python), SQL*  
+*SaaS revenue model<br>Financial modeling<br>Forecasting and scenario planning<br>Audit<br>GAAP accounting<br>401(k)* | *Contract review<br>Vendor negotiation<br>Financial systems integration<br>Basic coding (R, Python)<br>SQL*  
 {: style="font-size: large;"}
 
 
