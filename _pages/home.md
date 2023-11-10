@@ -26,6 +26,7 @@ Digital transformation |
 
 ####  "*I boost efficiency by leveraging technology and automation while also fostering ideation and experimentation.*"
 {: style="text-align: center; color: brown;"}
+![]()  
 
 | **Technical Skills**  |  |  
 -- | --  
@@ -36,8 +37,7 @@ Contract review | Financial systems integration
 Vendor negotiation | Basic coding (R, Python)  
 SQL | 
 {: style="font-size: large;"}
-
-&nbsp;  
+![]()   
 
 ## Education
 
