@@ -34,7 +34,8 @@ SaaS revenue model |  Forecasting and scenario planning
 Financial modeling | Audit  
 GAAP accounting | 401(k)  
 Contract review | Financial systems integration
-Vendor negotiation | Basic coding (R, Python)<br>SQL  
+Vendor negotiation | Basic coding (R, Python)  
+SQL | 
 {: style="font-size: large;"}
 
 
