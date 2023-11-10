@@ -51,23 +51,20 @@ SQL |
 
 {% capture notice-2 %}
 # **Harvard University**
-### Business Analytics Certificate, digital strategy, data analysis (*2020 - 2021*) 
----  
+## Business Analytics Certificate, digital strategy, data analysis (*2020 - 2021*)  
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
 
 {% capture notice-1 %}
 
 # **Columbia University**  
-### Master of Business Administration (*1999 - 2001*)  
----  
+## Master of Business Administration (*1999 - 2001*)    
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 {% capture notice-3 %}
 # **ESSEC Business School**  
-### Diplome Finance, General (*1993 - 1997*)  
----   
+## Diplome Finance, General (*1993 - 1997*)    
 {% endcapture %}
 <div class="notice--success">{{ notice-3 | markdownify }}</div>
 
@@ -75,15 +72,13 @@ SQL |
 
 {% capture notice-4 %}
 # **Partner - Women In Need, Inc. (Win)**  
-### *Helping homeless women and their children rebuild their lives.  Founded in 1983, Win began as a shelter for four homeless women and their combined six children. Since then, Win has evolved to become a leading, non-profit agency and the largest provider of shelter for homeless families in New York City. Win serves close to 12,000 homeless women and their children each year.*  
----   
+## *Helping homeless women and their children rebuild their lives.  Founded in 1983, Win began as a shelter for four homeless women and their combined six children. Since then, Win has evolved to become a leading, non-profit agency and the largest provider of shelter for homeless families in New York City. Win serves close to 12,000 homeless women and their children each year.*     
 {% endcapture %}
 <div class="notice--warning">{{ notice-4 | markdownify }}</div>  
 
 {% capture notice-5 %}
 # **Board Member - Treasurer - FRIEDA Community**  
-### *Social Services*     
----  
+## *Social Services*     
 {% endcapture %}
 <div class="notice--warning">{{ notice-5 | markdownify }}</div>  
 
