@@ -28,12 +28,13 @@ header:
 ## Education
 
 {% capture notice-1 %}
-## **Columbia University**  
+### **Columbia University**  
 #### Master of Business Administration (*1999 - 2001*) 
 
-## **Harvard University**  
+### **Harvard University**  
 #### Business Analytics Certificate, digital strategy, data analysis (*2020 - 2021*)  
-## **ESSEC Business School**  
+
+### **ESSEC Business School**  
 #### Diplome Finance, General (*1993 - 1997*)  
   
 {% endcapture %}
@@ -48,11 +49,11 @@ header:
 ## Volunteer Experience
 
 {% capture notice-2 %}
-## **Partner - Women In Need, Inc. (Win)**  
+### **Partner - Women In Need, Inc. (Win)**  
 #### *Helping homeless women and their children rebuild their lives.  Founded in 1983, Win began as a shelter for four homeless women and their combined six children. Since then, Win has evolved to become a leading, non-profit agency and the largest provider of shelter for homeless families in New York City. Win serves close to 12,000 homeless women and their children each year.*  
 
 
-##  **Board Member - Treasurer - FRIEDA Community**  
+###  **Board Member - Treasurer - FRIEDA Community**  
 *Social Services*  
   
 {% endcapture %}
