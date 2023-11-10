@@ -13,10 +13,6 @@ header:
 ## About
 ####  "*I have shaped cultures of high performance, accountability, and open communication in all the teams I have led, to drive growth and profitability.*"
 {: style="text-align: center; color: brown;"}
-####  "*I boost efficiency by leveraging technology and automation while also fostering ideation and experimentation.*"
-{: style="text-align: center; color: brown;"}
-####  "*I deliver on the full range of corporate finance functions including effective board and investor communication.*"
-{: style="text-align: center; color: brown;"}
 
 ![]()  
 
@@ -31,6 +27,8 @@ Digital transformation |
 {: style="font-size: large;"}  
 
 &nbsp;  
+####  "*I deliver on the full range of corporate finance functions including effective board and investor communication.*"
+{: style="text-align: center; color: brown;"}
 
 | **Technical Skills**  |  |  
 -- | --  
@@ -42,6 +40,9 @@ Vendor negotiation | Basic coding (R, Python)
 SQL | 
 {: style="font-size: large;"}
 
+&nbsp;  
+####  "*I boost efficiency by leveraging technology and automation while also fostering ideation and experimentation.*"
+{: style="text-align: center; color: brown;"}
 
 ## Education
 
