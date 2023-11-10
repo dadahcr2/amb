@@ -28,16 +28,18 @@ header:
 ## Education
 
 {% capture notice-1 %}
+***
 ### **Columbia University**  
 #### Master of Business Administration (*1999 - 2001*) 
 
-### **Harvard University**  
-==  
+### **Harvard University** 
+--  
 #### Business Analytics Certificate, digital strategy, data analysis (*2020 - 2021*)  
 
 ### **ESSEC Business School**  
 #### Diplome Finance, General (*1993 - 1997*)  
-** **  
+
+*** 
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -56,8 +58,8 @@ header:
 
 ***   
 ### **Board Member - Treasurer - FRIEDA Community**  
-#### *Social Services*    
-** **    
+#### *Social Services*     
+  
 *** 
 {% endcapture %}
 <div class="notice--warning">{{ notice-2 | markdownify }}</div>
