@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: ""
+title: "ambazzani.com"
 author_profile: false
+layout: splash
 ---
 
 
